@@ -11,7 +11,7 @@ export default function Home() {
           <div className="grid gap-4">
             <h1 className="text-2xl font-bold">Painel de Controle</h1>
             <p className="text-gray-500 dark:text-gray-400">
-              Gerencie todas as funcionalidades do sistema de reserva de salas.
+              Gerencie todas as funcionalidades do sistema.
             </p>
           </div>
           <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
